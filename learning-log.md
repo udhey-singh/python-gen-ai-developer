@@ -40,13 +40,13 @@ Writwrows - writes all the rows
 
 Aug 9 - today I studied type hint(mypy) in it -
 
-![Study note image](assets/image-01.jpeg)
+<img src="assets/image-01.jpeg" alt="Study note image" width="600">
 
 the basic thing about mypy is that it checks and tell us if the type hints are beginning followed or not and python will run the program and won't consider type hints they are just for developers to see and understand what it's output and more are meant to be and in it -
 
 Also studied uv -
 
-![Study note image](assets/image-02.jpeg)
+<img src="assets/image-02.jpeg" alt="Study note image" width="600">
 
 Also studied exception handling in it
 
@@ -62,19 +62,19 @@ Raise - we raise error by ourself
 
 Aug 10 - completed expection handling
 
-![Study note image](assets/image-03.jpeg)
+<img src="assets/image-03.jpeg" alt="Study note image" width="600">
 
 Aug 11 - completed logging, the 5 levels are not mentioned here
 
-![Study note image](assets/image-04.jpeg)
+<img src="assets/image-04.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-05.jpeg)
+<img src="assets/image-05.jpeg" alt="Study note image" width="600">
 
 Aug 12 - completed pytest -
 
 I think I will easily forget a lot of functions and mostly the writing schema but most probably remember the working of it, which I think is the main part
 
-![Study note image](assets/image-06.jpeg)
+<img src="assets/image-06.jpeg" alt="Study note image" width="600">
 
 Aug 13 - didn't do much practices pytest a bit mostly the async with patch part and again studying OOP (classes, inheritance), decorators, generators, iterators,
 
@@ -84,27 +84,27 @@ For example -  I saw a video of tech with tim on pytest it has the topics till m
 
 Aug 14 -
 
-![Study note image](assets/image-07.jpeg)
+<img src="assets/image-07.jpeg" alt="Study note image" width="600">
 
 Also studied ABC and abstract methods
 
 Aug 15 -
 
-![Study note image](assets/image-08.jpeg)
+<img src="assets/image-08.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-09.jpeg)
+<img src="assets/image-09.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-10.jpeg)
+<img src="assets/image-10.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-11.jpeg)
+<img src="assets/image-11.jpeg" alt="Study note image" width="600">
 
 Aug 16 -
 
-![Study note image](assets/image-12.jpeg)
+<img src="assets/image-12.jpeg" alt="Study note image" width="600">
 
 Aug 17 - today I studied
 
-![Study note image](assets/image-13.jpeg)
+<img src="assets/image-13.jpeg" alt="Study note image" width="600">
 
 Also some introduction to git and GitHub mainly decided to watch code with Harry git and GitHub tutorial for beginners (full course video).
 
@@ -118,37 +118,37 @@ Aug 20 - light study - reviewed the code with Harry git and GitHub tutorial for 
 
 September 16 - i studied general sql syntax and relational databases concepts. this was not specifically mysql or postgresql, later in the roadmap i'll study postgresql and i'll consider mysql separately if it becomes useful
 
-![Study note image](assets/image-14.jpeg)
+<img src="assets/image-14.jpeg" alt="Study note image" width="600">
 
 September 17 -
 
-![Study note image](assets/image-15.jpeg)
+<img src="assets/image-15.jpeg" alt="Study note image" width="600">
 
 September 18 -
 
-![Study note image](assets/image-16.jpeg)
+<img src="assets/image-16.jpeg" alt="Study note image" width="600">
 
 September 19 -
 
-![Study note image](assets/image-17.jpeg)
+<img src="assets/image-17.jpeg" alt="Study note image" width="600">
 
 September 20 -
 
-![Study note image](assets/image-18.jpeg)
+<img src="assets/image-18.jpeg" alt="Study note image" width="600">
 
 September 21 -
 
-![Study note image](assets/image-19.jpeg)
+<img src="assets/image-19.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-20.jpeg)
+<img src="assets/image-20.jpeg" alt="Study note image" width="600">
 
 September 22 -
 
-![Study note image](assets/image-21.jpeg)
+<img src="assets/image-21.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-22.jpeg)
+<img src="assets/image-22.jpeg" alt="Study note image" width="600">
 
-![Study note image](assets/image-23.jpeg)
+<img src="assets/image-23.jpeg" alt="Study note image" width="600">
 
 Key takeaway - numpy is faster than normal python code and the reason why it is that even though we use python syntax, a lot of the computation is executed in optimized compiled C and C++ code underneath. 
 
@@ -156,7 +156,7 @@ Difficulty - I'm still not much familiar with numpy, it's functions and how they
 
 September 23 -
 
-![Study note image](assets/image-24.jpeg)
+<img src="assets/image-24.jpeg" alt="Study note image" width="600">
 
 Also completed video by coding with Sagar,
 
@@ -164,5 +164,8 @@ Title - numpy for data science | full course | Sagar Chouskey.
 
 Key takeaway -
 
-- Numba can be used to speed up supported Python code. It JIT-compiles the code into machine code at runtime.
+- Numpy is fast mainly because it's built - in operations do a lot of work in optimized C.
+
+- Numba can be used when normal python code is slow. It JIT - compiled supported code into machine code at runtime.
+
 Syntax - @jit(nopython = True)
