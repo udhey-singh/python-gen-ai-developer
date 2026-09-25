@@ -56,7 +56,7 @@ Except - if error occurs do this
 
 Else - if no error occur
 
-Finally - do this no matter what
+Finally - do this ni matter what
 
 Raise - we raise error by ourself
 
@@ -120,27 +120,27 @@ Aug 20 - light study - reviewed the code with Harry git and GitHub tutorial for 
 
 September 16 - i studied general relational sql using syntax that is largely related to postgresql, not entirely mysql or postgresql, later in the roadmap I'll study postgresql after that, some day i'll study MySQL if it is necessary
 
-<img src="assets/image-02.jpeg" alt="Study note image" width="300">
+<img src="assets/image-17.jpeg" alt="Study note image" width="300">
 
 September 17 -
 
-<img src="assets/image-17.jpeg" alt="Study note image" width="300">
+<img src="assets/image-18.jpeg" alt="Study note image" width="300">
 
 September 18 -
 
-<img src="assets/image-03.jpeg" alt="Study note image" width="300">
+<img src="assets/image-02.jpeg" alt="Study note image" width="300">
 
 September 19 -
 
-<img src="assets/image-01.jpeg" alt="Study note image" width="300">
+<img src="assets/image-19.jpeg" alt="Study note image" width="300">
 
 September 20 -
 
-<img src="assets/image-18.jpeg" alt="Study note image" width="300">
+<img src="assets/image-03.jpeg" alt="Study note image" width="300">
 
 September 21 -
 
-<img src="assets/image-19.jpeg" alt="Study note image" width="300">
+<img src="assets/image-01.jpeg" alt="Study note image" width="300">
 
 <img src="assets/image-20.jpeg" alt="Study note image" width="300">
 
@@ -177,3 +177,21 @@ September 24 –
 <img src="assets/image-25.jpeg" alt="Study note image" width="300">
 
 <img src="assets/image-26.jpeg" alt="Study note image" width="300">
+
+September 25 –
+
+<img src="assets/image-27.jpeg" alt="Study note image" width="300">
+
+<img src="assets/image-28.jpeg" alt="Study note image" width="300">
+
+<img src="assets/image-29.jpeg" alt="Study note image" width="300">
+
+<img src="assets/image-30.jpeg" alt="Study note image" width="300">
+
+Key Takeaway –
+
+Numpy : basic indexing/slicing in numpy returns view, advanced indexing returns a copy while other operations depend on the operation.Pandas :  derived dataframes/series from operations behave as copies under Copy-on-Write, i.e. pandas may share the underlying data internally, but creates a copy when modification requires it.
+
+So in short, pandas has a more consistent copy behavior, while in numpy it depends on the type of operation.
+
+.
